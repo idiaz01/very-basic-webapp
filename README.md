@@ -1,3 +1,2 @@
-# terraform-webapp-test
-
-Testing purposes. Building the whole web application architecture in AWS using Terraform.
+# Very Basic Dockerized React WebApp
+For testing purposes.
